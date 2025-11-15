@@ -56,3 +56,17 @@ La herramienta sera capaz de gestionar facturas, clientes, productos y reportes.
 - Framework web (**Flask**)  
 
 ---
+
+## 🧪 **Proyecto Final — Sistema Inteligente para Fabricación Aditiva con IA**
+📌 *IA – Generación 3D – Fabricación aditiva*
+
+ **Automatización del Diseño 3D para Fabricación Aditiva: Propuesta de un Sistema de Asistencia Inteligente**.  
+El objetivo es que el sistema, mediante herramientas de **Inteligencia Artificial**, genere modelos 3D listos para imprimir.
+
+
+### 🛠️ Tecnologías involucradas (en progreso)
+- **Python** para backend inteligente y procesamiento  
+- Modelos de **IA generativa** 
+
+Este proyecto integra IA, ingeniería de software, fabricación aditiva, y otras materias y conceptos aprendidos a lo largo de la carrera.
+
